@@ -1,2 +1,2 @@
 # Todolist-app
-Basically I want to develop a web app by HTML,CSS and Javascript
+Basically, I want to develop a web app by HTML,CSS and Javascript
